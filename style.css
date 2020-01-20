@@ -1,4 +1,5 @@
 * {
+  margin: 500px;
 }
 html {
 }
@@ -7,6 +8,3 @@ html {
 body {
 }
   
-.name {
-  font-size: 400px;
-}
