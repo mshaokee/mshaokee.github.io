@@ -3,11 +3,13 @@
   font-size: 75px;
   font-family: 'signika', sans-serif;
    text-align: center;
+   font-weight: bold;
 }
 
 .address {
    text-align: center;
    font-size: 25px;
+   font-weight: bold;
 }
 
 .info1 {
