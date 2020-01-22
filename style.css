@@ -5,6 +5,11 @@
    text-align: center;
 }
 
+.address {
+   text-align: center;
+   font-size: 25px;
+}
+
 body {
 background-color: #004d99;
 }
