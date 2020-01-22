@@ -9,6 +9,13 @@ body {
 background-color: #004d99;
 }
 
+.Summary {
+   font-family: 'Droid-serif', sans-serif;
+   color: white;
+}
+
+
+
 .Skills {
     float: right;
 }
