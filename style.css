@@ -21,6 +21,9 @@
 }
 
 .edutitle {
+    font-family: 'Droid-serif', sans-serif;
+   font-size: 45px;
+   color: white;
    
 }
 
@@ -29,6 +32,9 @@
 }
 
 .skilltitle {
+    font-family: 'Droid-serif', sans-serif;
+   font-size: 45px;
+   color: white;
    
 }
 
@@ -37,7 +43,9 @@
 }
 
 .expertitle {
-   
+    font-family: 'Droid-serif', sans-serif;
+   font-size: 45px;
+   color: white;
 }
 
 h4 {
