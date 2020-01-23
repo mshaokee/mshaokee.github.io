@@ -19,6 +19,7 @@
    font-size: 30px;
    font-weight: bold;
    text-align: center;
+   margin-top: 15px;
 }
 
 .education {
@@ -33,6 +34,7 @@
    color: white;
       text-decoration: underline;
    text-decoration-color: white;
+   margin-top: 40px;
    
 }
 
@@ -48,7 +50,7 @@
    color: white;
       text-decoration: underline;
    text-decoration-color: white;
-   
+   margin-top: 40px;
 }
 
 .Experience {
@@ -63,6 +65,7 @@
    color: white;
       text-decoration: underline;
    text-decoration-color: white;
+   margin-top: 40px;
 }
 
 h4 {
@@ -87,6 +90,5 @@ background-color: #99c2ff;
 
 
 .Skills {
-    float: right;
 }
     
