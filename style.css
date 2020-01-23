@@ -9,7 +9,7 @@
 }
 
 .rounded {
-  border-top: 8px solid black;
+  border-bottom: 8px solid black;
   border-radius: 6px;
 }
 
