@@ -71,11 +71,12 @@ background-color: #99c2ff;
 
 .Summary {
    font-family: 'Droid-serif', sans-serif;
-   font-size: 45px;
+   font-size: 35px;
    color: white;
    text-decoration: underline;
+   text-align: center;
    text-decoration-color: white;
-   margin-top: 25px;
+   margin-top: 40px;
 }
 
 
