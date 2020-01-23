@@ -18,11 +18,12 @@
 .info1 {
    font-size: 30px;
    font-weight: bold;
-   float: left;
-   
+   text-align: center;
 }
 
 .education {
+   font-size: 27px;
+   text-alight: center;
    
 }
 
@@ -36,6 +37,8 @@
 }
 
 .Skills {
+      font-size: 27px;
+   text-alight: center;
    
 }
 
@@ -49,6 +52,8 @@
 }
 
 .Experience {
+      font-size: 27px;
+   text-alight: center;
    
 }
 
