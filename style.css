@@ -8,6 +8,11 @@
    padding: 20px;
 }
 
+.rounded {
+  border-top: 8px solid black;
+  border-radius: 6px;
+}
+
 .container {
    margin-left: 220px;
    
@@ -31,7 +36,6 @@
 
 .education {
    font-size: 27px;
-     font-family: 'Courier New', sans-serif;
 }
 
 .edutitle {
@@ -46,7 +50,6 @@
 
 .Skills {
       font-size: 27px;
-     font-family: 'Courier New', sans-serif;
 }
 
 .skilltitle {
@@ -60,7 +63,6 @@
 
 .Experience {
       font-size: 27px;
-     font-family: 'Courier New', sans-serif;
 }
 
 .expertitle {
