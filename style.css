@@ -16,7 +16,7 @@
 }
 
 .info1 {
-   font-size: 35px;
+   font-size: 30px;
    font-weight: bold;
    float: left;
    
@@ -71,7 +71,7 @@ background-color: #99c2ff;
 
 .Summary {
    font-family: 'Droid-serif', sans-serif;
-   font-size: 35px;
+   font-size: 45px;
    color: white;
    text-decoration: underline;
    text-align: center;
